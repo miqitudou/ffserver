@@ -2,7 +2,7 @@
 
 ![](https://github.com/nanarino/ffserver/blob/main/static/screenshot/ffserver.png)
 
-Fastapi-based file service management (Python3.8+)
+Fastapi-based file service management (Python3.8+)#
 
 
 ## Frontend
